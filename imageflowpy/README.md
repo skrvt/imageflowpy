@@ -5,9 +5,7 @@ Imageflow is a library that generates images of basically anything. For example:
 How to use:
 # Generate a random picture of Billie Eilish.
 ```
-import imageflow-py as imageflow
-
-imageflow.billie_eilish()
+import imageflowpy
 ```
 
 Authors of Imageflow:
